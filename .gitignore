@@ -1,3 +1,7 @@
+#Matlab Files Ignored for now
+*.m
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
