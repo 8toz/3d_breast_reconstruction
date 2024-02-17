@@ -1,6 +1,7 @@
 #Matlab Files Ignored for now
 *.m
 data/
+*.png
 
 
 # Byte-compiled / optimized / DLL files
